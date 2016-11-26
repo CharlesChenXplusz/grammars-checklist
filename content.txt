@@ -1,0 +1,7 @@
+<checklist name = "a">
+asdfadsf
+    <checklistitem name = "a-1">abv</checklistitem>
+    adfasdf
+    <checklistitem name = "a-2">adfdf</checklistitem>
+    asdfasdf
+</checklist>
